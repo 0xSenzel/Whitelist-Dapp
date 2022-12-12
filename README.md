@@ -4,7 +4,7 @@ This repo contains coursework project from [LearnWeb3](https://learnweb3.io/) co
 
 ## Project Info
 
-Whitelist Dapp give the first 10 users the ability to access exclusive feature to mint NFT on our NFT minting Dapp : [NFT Collection](https://github.com/0xSenzel/nft-collection).
+Whitelist Dapp give the first 10 users that registered through this Dapp the ability to access exclusive minting feature to mint NFT on our NFT minting Dapp : [NFT-Collection](https://0xsenzel-nft-collection.vercel.app/).
 
 ## Project Demo
 
